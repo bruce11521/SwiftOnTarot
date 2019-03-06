@@ -52,6 +52,7 @@ for (index, value) in majorArcana_Eng.enumerated(){
     print("第\(index+1)項為\(value)")
 }
 */
+var aa = 0
 var divinationNumber=0
 var resultNumber = 0
 var tempNumber = 0
